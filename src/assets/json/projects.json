@@ -1,0 +1,46 @@
+[
+    {
+        "name": "pnwkit-2.0",
+        "stack": {
+            "name": "NPM",
+            "iconClasses": "fa-brands fa-npm"
+        },
+        "description": "A GraphQL API wrapper for the Politics and War API",
+        "sourceUrl": "https://github.com/darkblade1078/pnwkit-2.0/tree/main/src",
+        "previewUrl": "https://github.com/darkblade1078/pnwkit-2.0",
+        "featured": true
+    },
+    {
+        "name": "This Website",
+        "stack": {
+            "name": "Angular",
+            "iconClasses": "fab fa-angular"
+        },
+        "description": "I made this website while following a tutorial to learn about Angular",
+        "sourceUrl": "https://github.com/darkblade1078/portfolio/tree/main/src",
+        "previewUrl": "https://github.com/darkblade1078/portfolio",
+        "featured": true
+    },
+    {
+        "name": "Particle",
+        "stack": {
+            "name": "Discord",
+            "iconClasses": "fa-brands fa-discord"
+        },
+        "description": "A general use discord bot that I'm currently working on",
+        "sourceUrl": "https://github.com/darkblade1078/Particle/tree/main/src",
+        "previewUrl": "https://github.com/darkblade1078/Particle",
+        "featured": true
+    },
+    {
+        "name": "Demon",
+        "stack": {
+            "name": "Discord",
+            "iconClasses": "fa-brands fa-discord"
+        },
+        "description": "A discord bot that focuses on the war aspect of the game Politics and War",
+        "sourceUrl": "https://github.com/darkblade1078/Demon/tree/main/src",
+        "previewUrl": "https://github.com/darkblade1078/Demon",
+        "featured": true
+    }
+]

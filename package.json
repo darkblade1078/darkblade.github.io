@@ -6,7 +6,9 @@
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
-    "test": "ng test"
+    "test": "ng test",
+    "scully": "scully",
+    "scully:serve": "scully serve"
   },
   "private": true,
   "dependencies": {
@@ -18,6 +20,12 @@
     "@angular/platform-browser": "^16.1.0",
     "@angular/platform-browser-dynamic": "^16.1.0",
     "@angular/router": "^16.1.0",
+    "@fortawesome/fontawesome-free": "^6.4.2",
+    "@ng-bootstrap/ng-bootstrap": "^15.1.1",
+    "@popperjs/core": "^2.11.6",
+    "@scullyio/init": "^2.1.21",
+    "@scullyio/scully-plugin-puppeteer": "^2.1.41",
+    "bootstrap": "^5.2.3",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.13.0"
@@ -26,6 +34,7 @@
     "@angular-devkit/build-angular": "^16.1.8",
     "@angular/cli": "~16.1.8",
     "@angular/compiler-cli": "^16.1.0",
+    "@angular/localize": "^16.1.0",
     "@types/jasmine": "~4.3.0",
     "jasmine-core": "~4.6.0",
     "karma": "~6.4.0",
