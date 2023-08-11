@@ -11,14 +11,14 @@
         "featured": true
     },
     {
-        "name": "This Website",
+        "name": "darkblade.github.io",
         "stack": {
             "name": "Angular",
             "iconClasses": "fab fa-angular"
         },
-        "description": "I made this website while following a tutorial to learn about Angular",
-        "sourceUrl": "https://github.com/darkblade1078/portfolio/tree/main/src",
-        "previewUrl": "https://github.com/darkblade1078/portfolio",
+        "description": "My portfolio website I made using Angular",
+        "sourceUrl": "https://github.com/darkblade1078/darkblade.github.io/tree/main/src",
+        "previewUrl": "https://github.com/darkblade1078/darkblade.github.io",
         "featured": true
     },
     {
