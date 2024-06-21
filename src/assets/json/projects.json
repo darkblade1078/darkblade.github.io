@@ -11,6 +11,17 @@
         "featured": true
     },
     {
+        "name": "pnwkit-2.0-gs",
+        "stack": {
+            "name": "NPM",
+            "iconClasses": "fa-brands fa-npm"
+        },
+        "description": "The Google Appscript version of pnwkit",
+        "sourceUrl": "https://github.com/darkblade1078/pnwkit-2.0-gs/tree/main/src",
+        "previewUrl": "https://github.com/darkblade1078/pnwkit-2.0-gs",
+        "featured": true
+    },
+    {
         "name": "darkblade1078.github.io",
         "stack": {
             "name": "Angular",
@@ -19,28 +30,6 @@
         "description": "My portfolio website I made using Angular",
         "sourceUrl": "https://github.com/darkblade1078/darkblade1078.github.io/tree/main/src",
         "previewUrl": "https://github.com/darkblade1078/darkblade1078.github.io",
-        "featured": true
-    },
-    {
-        "name": "Particle",
-        "stack": {
-            "name": "Discord",
-            "iconClasses": "fa-brands fa-discord"
-        },
-        "description": "A general use discord bot being made for fun",
-        "sourceUrl": "https://github.com/darkblade1078/Particle/tree/main/src",
-        "previewUrl": "https://github.com/darkblade1078/Particle",
-        "featured": true
-    },
-    {
-        "name": "Terminator",
-        "stack": {
-            "name": "Discord",
-            "iconClasses": "fa-brands fa-discord"
-        },
-        "description": "A discord bot that focuses on the war aspect of the game Politics and War (This project is hidden)",
-        "sourceUrl": "https://github.com/darkblade1078/Terminator/tree/main/src",
-        "previewUrl": "https://github.com/darkblade1078/Terminator",
         "featured": true
     }
 ]
